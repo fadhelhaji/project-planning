@@ -1,0 +1,29 @@
+--KeyRush--
+A clicking game
+KeyRush is a fast paced game, where a timer of 1 min will start with the first click, with each click time increases. a set of keys will appear and challenge the user to enter the keys as fast as possible and avoid losing precious time.
+
+
+User stories:
+1. If a user clicks the button, the time should increase by 1 or 0.5sec.
+2. If a user enters the all the keys shown on the screen correctly during each round, they must proceed to the next round.
+3. The user should be able to complete objectives if met.
+4. The user should get a message at the end of the game showcasing his points and click count.
+
+Pseudo code:
+1. Once the game starts, there will be a countdown of one-min
+2. With each click, time increases by 1 or 0.5sec
+3. two sets of keys (whether arrows or letters) will appear in each round, if the user enters correctly, you proceed to the next round. else, you lose 25% of the time.
+4. Whenever you reach next round, the keys will appear for a shorter period of time
+5. Clicks must be counted
+6. If an objective is met, the box/text turns to a ‘color’
+
+
+Mock:
+https://excalidraw.com/#json=adRZS7Kph4LeRz-bprZhd,bK321oGBaxS8LcnVCqjKnA
+
+
+
+
+
+
+
